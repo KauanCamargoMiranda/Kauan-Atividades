@@ -1,0 +1,3 @@
+pip install flask cryptography
+
+python cripty_rsa.py
